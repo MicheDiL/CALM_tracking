@@ -9,4 +9,7 @@ Ottimizzati per analizzare e monitorare il comportamento del laser in ambienti s
 Codici in C
 
 Sviluppati per la programmazione del sistema di interfaccia utente basato su un microcontrollore SAMD21.
-Supportano il controllo di un pennino grafico che invia input precisi ai motori del sistema, consentendo il posizionamento accurato del laser durante le operazioni..
+Supportano il controllo di un pennino grafico che invia input precisi ai motori del sistema, consentendo il posizionamento accurato del laser durante le operazioni.
+
+Note
+I file MATLAB e C sono organizzati in directory separate per garantire una navigazione chiara.
